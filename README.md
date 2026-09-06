@@ -5,7 +5,7 @@
 
 # ShotX（中文版）
 
-<img width="432" height="1064" alt="ScreenShot_2026-09-06_093114_983" src="https://github.com/user-attachments/assets/5b0e3ba3-c295-468a-ba83-590018633e8d" />
+<img width="150" height="369" alt="ScreenShot_2026-09-06_093114_983" src="https://github.com/user-attachments/assets/5b0e3ba3-c295-468a-ba83-590018633e8d" />
 
 **专为 macOS 菜单栏设计的现代化截图与录屏工具。**  
 支持区域截图、带摄像头画中画的屏幕录制、GIF 导出、即时标注、屏幕取色、OCR 文字提取以及可搜索的历史记录 —— 全程无需离开键盘。
